@@ -6,7 +6,7 @@ Esta pasta contém os arquivos relacionados ao banco de dados do projeto APP Sch
 
 - `escola.sql` — banco de dados do projeto.
 - `dicionario_banco.pdf` — dicionário de dados.
-- `modelagem.png` — modelagem do banco de dados.
+- `modelagem.brM3` — modelagem do banco de dados.
 
 ## Modelagem
 
