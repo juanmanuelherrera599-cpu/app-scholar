@@ -1,15 +1,16 @@
 # APP Scholar
 
-## Sobre o projeto
+## Sobre
 
-O APP Scholar é um sistema acadêmico desenvolvido para gerenciamento de informações escolares.
+O APP Scholar é um aplicativo mobile desenvolvido para auxiliar no gerenciamento de informações acadêmicas de uma instituição de ensino.
+
+## Objetivo
+
+O objetivo do projeto é facilitar o cadastro, a consulta e o gerenciamento de informações relacionadas a alunos, professores, responsáveis, cursos, disciplinas, matrículas, turmas, avaliações, coordenadores e boletins.
 
 ## Funcionalidades
 
 - Cadastro de alunos
-- Consulta de alunos
-- Edição de alunos
-- Desativação de alunos
 - Cadastro de professores
 - Cadastro de responsáveis
 - Cadastro de cursos
@@ -18,36 +19,42 @@ O APP Scholar é um sistema acadêmico desenvolvido para gerenciamento de inform
 - Cadastro de turmas
 - Cadastro de avaliações
 - Cadastro de coordenadores
+- Consulta de alunos
 - Consulta de boletim
 
-## Tecnologias utilizadas
+## Tecnologias
 
 - React Native
 - Expo
 - JavaScript
 - PHP
 - MySQL
-- Git
-- GitHub
 
-## Estrutura do projeto
+## Estrutura
 
-- `app_scholar/` — aplicativo mobile
-- `app_scholar_api/` — API desenvolvida em PHP
-- `database/` — arquivos relacionados ao banco de dados
-- `docs/` — documentação do projeto
+A pasta do aplicativo contém as telas e arquivos necessários para o funcionamento do APP Scholar.
 
-## Banco de dados
+- `App.js` — arquivo principal do aplicativo.
+- `screens/` — contém as telas do sistema.
+- `services/` — contém a comunicação com a API.
+- `assets/` — contém imagens e recursos utilizados pelo aplicativo.
 
-O sistema utiliza o banco de dados `escola` através de uma API PHP.
+## Banco de Dados
 
-## Como executar
+O aplicativo utiliza o banco de dados **escola**, desenvolvido em MySQL.
 
-1. Baixar ou clonar o projeto.
-2. Configurar o banco de dados MySQL.
-3. Configurar a API PHP no servidor Apache.
-4. Configurar o endereço da API no aplicativo.
-5. Executar o aplicativo utilizando Expo.
+O banco contém informações acadêmicas relacionadas aos alunos, responsáveis, professores, cursos, disciplinas, turmas, matrículas, avaliações, coordenadores e boletins.
+
+Os arquivos do banco de dados estão disponíveis na pasta `database/`.
+
+## Como Executar
+
+1. Instale o Expo/Expo Go.
+2. Abra a pasta `app_scholar`.
+3. Instale as dependências do projeto.
+4. Configure a API e o banco de dados.
+5. Execute o projeto pelo Expo.
+6. Abra o aplicativo no celular utilizando o Expo Go.
 
 ## Autor
 
