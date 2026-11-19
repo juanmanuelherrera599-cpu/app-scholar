@@ -1,0 +1,44 @@
+APP Scholar – Sistema Acadêmico Mobile
+
+Sobre o Projeto
+
+O APP Scholar é um sistema acadêmico desenvolvido como atividade escolar, com o objetivo de oferecer uma solução para o gerenciamento de informações acadêmicas por meio de um aplicativo mobile integrado a uma API.
+
+O projeto é composto por duas partes principais: o Aplicativo Mobile (Frontend) e a API (Backend), que trabalham em conjunto para realizar a comunicação com o banco de dados.
+
+Tecnologias Utilizadas
+
+Aplicativo Mobile:
+
+- React Native
+- Expo
+- JavaScript
+
+API (Backend):
+
+- PHP
+- MySQL
+- XAMPP
+
+Estrutura do Projeto
+
+1. Aplicativo Mobile (Frontend)
+
+Responsável pela interface do sistema, incluindo telas, componentes, navegação e funcionalidades disponíveis ao usuário.
+
+2. API (Backend)
+
+Responsável pelo processamento das requisições, comunicação com o banco de dados e integração com o aplicativo mobile.
+
+Acesso aos Arquivos – Google Drive
+
+- Aplicativo Mobile: "Acessar arquivos do APP Scholar" (https://drive.google.com/drive/folders/1a3TEhFMeJxXO_KRH4TDUkIDeJ6y2rExi)
+- API (Backend): "Acessar arquivos da API" (https://drive.google.com/drive/folders/1OFVs3IUqemfpMIDezYom8agUMB-tAwxw)
+
+Considerações Finais
+
+Este projeto representa a versão final do APP Scholar – Sistema Acadêmico Mobile, reunindo o aplicativo e sua API em uma solução integrada.
+
+Desenvolvedor: Juan Manuel Herrera Garcés
+
+Status: Versão Final
